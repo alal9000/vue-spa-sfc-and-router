@@ -34,7 +34,7 @@ const MyPost = {
       template: `
         <p>
           {{ status }} 
-          <button @click="$emit('remove')" class="btn btn-warning">Del</button>
+          <button @click="$emit('remove')" class="btn btn-warning">Delete</button>
         </p>
       `
     }

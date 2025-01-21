@@ -30,10 +30,10 @@ app.component('app-nav', {
     <div>
       <v-spacer></v-spacer>
       <v-btn class="mr-3">
-        <router-link to="/" replace>Home</router-link>
+        <router-link to="/" replace>Name Test</router-link>
       </v-btn>
       <v-btn class="mr-3">
-        <router-link to="/mypost" replace>My Post</router-link>
+        <router-link to="/mypost" replace>Post Management</router-link>
       </v-btn>
       <v-btn class="mr-3">
         <router-link to="/student-marks" replace>Student Marks</router-link>
